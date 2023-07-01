@@ -2,7 +2,7 @@
 Module: random_forest.py
 
 Date: 30-Dec-2022
-Authoer: Amandeep Singh
+Author: Amandeep Singh
 
 Module Classes:
     RandomForestModel:
