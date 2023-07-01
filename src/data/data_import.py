@@ -2,7 +2,7 @@
 Module: data_import.py
 
 Date: 30-Dec-2022
-Authoer: Amandeep Singh
+Author: Amandeep Singh
 
 Module Classes:
     Data:
