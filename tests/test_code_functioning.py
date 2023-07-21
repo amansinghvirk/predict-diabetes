@@ -1,6 +1,5 @@
 '''
-Module: chrun_script_logging_and_tests.py
-    - to test the workings of churn_library module
+Module: test_code_functioning
 
 Date: 30-Dec-2022
 Author: Amandeep Singh
